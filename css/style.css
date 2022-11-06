@@ -87,3 +87,27 @@ footer{
     display: flex;
     justify-content:center; 
 }
+
+.encabezadoTicket{
+    justify-content: center;
+}
+
+.ticket{
+    border: 1px solid black; 
+    text-align: center;
+    margin: 0px 2px;
+}
+
+.ticket p{
+    font-size: xx-small;
+}
+
+.titulo p, h2{
+    text-align: center;
+}   
+
+.resultado{
+    background-color: azure;
+}
+
+
